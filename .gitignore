@@ -1,0 +1,4 @@
+model/llama-2-7b-chat.Q6_K.gguf
+.env
+/venv_genai
+Medical_Chatbot_using_Llama2.egg-info/
